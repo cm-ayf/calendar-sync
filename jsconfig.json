@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/strictest",
+  "compilerOptions": {
+    "lib": ["ES5"],
+    "allowJs": true,
+    "checkJs": true,
+    "types": ["@types/google-apps-script"]
+  },
+  "include": ["*.js"]
+}

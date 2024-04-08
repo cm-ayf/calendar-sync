@@ -1,0 +1,25 @@
+{
+  "name": "calendar-sync",
+  "version": "0.0.0",
+  "description": "Google Apps Script to sync Google calendar to another",
+  "main": "config.js",
+  "scripts": {
+    "push": "clasp push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cm-ayf/calendar-sync.git"
+  },
+  "author": "cm-ayf <cm.ayf2734@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cm-ayf/calendar-sync/issues"
+  },
+  "homepage": "https://github.com/cm-ayf/calendar-sync#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@tsconfig/strictest": "^2.0.4",
+    "@types/google-apps-script": "^1.0.82",
+    "typescript": "^5.4.3"
+  }
+}
