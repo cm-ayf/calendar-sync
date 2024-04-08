@@ -3,9 +3,6 @@
   "version": "0.0.0",
   "description": "Google Apps Script to sync Google calendar to another",
   "main": "config.js",
-  "scripts": {
-    "push": "clasp push"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/cm-ayf/calendar-sync.git"
